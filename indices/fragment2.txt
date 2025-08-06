@@ -1,0 +1,11 @@
+🏝️ **FRAGMENT 2 DÉCOUVERT !**
+
+Une statue du Capitaine Haddock vous accueille :
+
+"Mille millions de mille sabords !"  
+"Tu as trouvé mon île ! Mais attention..."  
+"Il faut réunir les deux mondes pour continuer."
+
+**Fragment du code : _QUEST**
+
+⚠️ **Mission :** Retourne au port principal (main) et réunis les territoires avec `git merge ile-secrete`
